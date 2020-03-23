@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is great!",
+      "id": 1
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "id": 2
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "id": 3
+    },
+    {
+      "title": "tanuj kumar",
+      "description": "singh with user ID",
+      "userId": "109139191530874756812",
+      "id": 4
+    },
+    {
+      "title": "Test reuse",
+      "description": "stream create reuse by me edit",
+      "id": 6
+    }
+  ]
+}
